@@ -90,9 +90,10 @@ CodeAssistAnalyzer/
 
 ## **Tutorial Video**
 
-For a detailed walkthrough of the project, watch the tutorial video:
+For a detailed walkthrough of the SonarQube installation, watch the following tutorial videos:
 
-[![CodeAssistAnalyzer Tutorial](https://img.youtube.com/vi/O0yFLS30InY/0.jpg)](https://www.youtube.com/watch?v=O0yFLS30InY&t=410s)
+[![SonarQube Installation Tutorial](https://img.youtube.com/vi/O0yFLS30InY/0.jpg)](https://www.youtube.com/watch?v=O0yFLS30InY&t=410s)
+[![SonarQube Installation Tutorial](https://img.youtube.com/vi/O0yFLS30InY/0.jpg)](https://www.youtube.com/watch?v=bnIvlnu_YL0)
 
 ## **Acknowledgments**
 

@@ -74,9 +74,25 @@ CodeAssistAnalyzer/
    sonar-scanner
    ```
 
-4. Visualize metrics:
-   - Run analysis scripts:
+4. Run analysis script:
      ```bash
      python py_analyze.py
-     python py_plot.py
      ```
+
+5. Run visualize scripts:
+     ```bash
+       `py_plot.py`: Generates plots for comment density and other metrics.
+       `plot_daily`: Focuses on daily trends.
+       `plot_weekly`: Focuses on weekly trends.
+       `py_plot_monthly`: Focuses on monthly trends.  
+       `py_plot_quarterly.py`: Focuses on quarterly trends.
+     ```
+
+## **Acknowledgments**
+
+This project builds on the original Petastorm library by Uber. For more information, visit [Petastorm](https://github.com/uber/petastorm).
+
+## **License**
+
+This project is licensed under the same terms as Petastorm. See [LICENSE](LICENSE) for details.
+

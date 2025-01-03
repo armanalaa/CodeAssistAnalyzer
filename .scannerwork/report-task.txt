@@ -1,0 +1,6 @@
+projectKey=petastorm
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=petastorm
+ceTaskId=aa331cc5-2cc8-4c0e-8727-2684e15446ed
+ceTaskUrl=http://localhost:9000/api/ce/task?id=aa331cc5-2cc8-4c0e-8727-2684e15446ed

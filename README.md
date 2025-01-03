@@ -57,6 +57,16 @@ CodeAssistAnalyzer/
   - `sonar-project.properties`:
     - `sonar.login`: A field for providing an authentication token to connect securely to SonarQube. Replace `squ_283ee` with your actual token.
 
+### **Generating a SonarQube Token**
+
+To generate a token:
+1. Visit: [Managing Tokens](https://docs.sonarsource.com/sonarqube-server/latest/user-guide/managing-tokens/).
+2. Go to: `Projects` -> Select your project -> `Project Settings`.
+3. Tick all options as in the provided screenshot.
+
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/f2ff572f-8a4f-488a-9272-e9069897df63" />
+
+
 ## **Usage Instructions**
 
 1. Clone the repository:

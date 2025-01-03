@@ -63,3 +63,19 @@ CodeAssistAnalyzer/
    ```bash
    git clone https://github.com/armanalaa/CodeAssistAnalyzer.git
    cd CodeAssistAnalyzer
+   ```
+
+2. Set up dependencies:
+   - Install [SonarQube](https://www.sonarsource.com/) locally or connect to a hosted instance.
+   - Ensure Python dependencies are installed:
+
+3. Run the SonarQube scanner:
+   ```bash
+   sonar-scanner
+   ```
+
+4. Visualize metrics:
+   - Run analysis scripts:
+     python py_analyze.py
+     python py_plot.py
+     ```

@@ -76,6 +76,7 @@ CodeAssistAnalyzer/
 
 4. Visualize metrics:
    - Run analysis scripts:
+     ```bash
      python py_analyze.py
      python py_plot.py
      ```

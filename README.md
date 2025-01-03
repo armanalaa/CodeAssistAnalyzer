@@ -88,6 +88,12 @@ CodeAssistAnalyzer/
        python py_plot_quarterly.py
      ```
 
+## **Tutorial Video**
+
+For a detailed walkthrough of the project, watch the tutorial video:
+
+[![CodeAssistAnalyzer Tutorial](https://img.youtube.com/vi/O0yFLS30InY/0.jpg)](https://www.youtube.com/watch?v=O0yFLS30InY&t=410s)
+
 ## **Acknowledgments**
 
 This project builds on the original Petastorm library by Uber. For more information, visit [Petastorm](https://github.com/uber/petastorm).

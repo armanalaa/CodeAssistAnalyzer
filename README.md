@@ -81,11 +81,11 @@ CodeAssistAnalyzer/
 
 5. Run visualize scripts:
      ```bash
-       `py_plot.py`: Generates plots for comment density and other metrics.
-       `plot_daily`: Focuses on daily trends.
-       `plot_weekly`: Focuses on weekly trends.
-       `py_plot_monthly`: Focuses on monthly trends.  
-       `py_plot_quarterly.py`: Focuses on quarterly trends.
+       python py_plot.py
+       python plot_daily
+       python plot_weekly
+       python py_plot_monthly  
+       python py_plot_quarterly.py
      ```
 
 ## **Acknowledgments**
